@@ -3,8 +3,8 @@ import torch.nn as nn
 from torch.nn.modules.utils import consume_prefix_in_state_dict_if_present
 
 URLS = {
-    "hubert-discrete": "https://github.com/bshall/acoustic-model/releases/download/v0.1/hubert-discrete-d49e1c77.pt",
-    "hubert-soft": "https://github.com/bshall/acoustic-model/releases/download/v0.1/hubert-soft-0321fd7e.pt",
+    "hubert-discrete": "https://github.com/isletennos/Soft-vc-model-storage/blob/main/models/model-best.pt",
+    "hubert-soft": "https://github.com/isletennos/Soft-vc-model-storage/blob/main/models/model-best.pt",
 }
 
 
